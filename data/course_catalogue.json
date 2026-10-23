@@ -3,40 +3,120 @@
     "id": 1,
     "title": "Applied Scikit-Learn & Machine Learning Pipelines",
     "category": "Machine Learning",
+    "industry": "Data Science, Analytics and Artificial Intelligence",
     "level": "Intermediate",
-    "skills": ["Python", "Scikit-Learn", "Data Preprocessing", "Pipelines"],
+    "skills": ["Python", "Scikit-Learn", "Data Preprocessing", "Pipelines", "Model Evaluation"],
     "duration": "4 weeks",
     "description": "Build leakage-free machine learning pipelines, evaluation metrics, and production-ready models.",
-    "url": "https://scikit-learn.org/stable/tutorial/index.html"
+    "url": "https://scikit-learn.org/stable/tutorial/index.html",
+    "learning_format": "Courses"
   },
   {
     "id": 2,
     "title": "Streamlit Interactive Web Apps for Data Science",
     "category": "Software Engineering",
+    "industry": "Technology and Software Development",
     "level": "Beginner",
-    "skills": ["Python", "Streamlit", "UI Design", "Data Visualization"],
+    "skills": ["Python", "Streamlit", "UI Design", "Data Visualisation"],
     "duration": "2 weeks",
     "description": "Turn data scripts into interactive web applications without extensive frontend web development.",
-    "url": "https://docs.streamlit.io/"
+    "url": "https://docs.streamlit.io/",
+    "learning_format": "Tutorials"
   },
   {
     "id": 3,
     "title": "Git & GitHub Workflow for Professional Developers",
     "category": "Developer Tools",
+    "industry": "Technology and Software Development",
     "level": "Beginner",
     "skills": ["Git", "GitHub", "Version Control", "Collaboration"],
     "duration": "1 week",
     "description": "Master branching, merging, pull requests, and repository management for technical portfolios.",
-    "url": "https://git-scm.com/doc"
+    "url": "https://git-scm.com/doc",
+    "learning_format": "Tutorials"
   },
   {
     "id": 4,
     "title": "Advanced Pandas & Exploratory Data Analysis",
     "category": "Data Science",
+    "industry": "Data Science, Analytics and Artificial Intelligence",
     "level": "Intermediate",
-    "skills": ["Python", "Pandas", "EDA", "Data Cleaning"],
+    "skills": ["Python", "Pandas", "EDA", "Data Cleaning", "Data Analysis"],
     "duration": "3 weeks",
     "description": "Handle missing data, complex aggregations, and high-performance dataframe manipulations.",
-    "url": "https://pandas.pydata.org/docs/"
+    "url": "https://pandas.pydata.org/docs/",
+    "learning_format": "Courses"
+  },
+  {
+    "id": 5,
+    "title": "Agile Project Management & Scrum Fundamentals",
+    "category": "Project Management",
+    "industry": "Project Management",
+    "level": "Beginner",
+    "skills": ["Agile", "Scrum", "Project Planning", "Team Coordination", "Risk Management"],
+    "duration": "2 weeks",
+    "description": "Learn sprint planning, backlog grooming, and Agile ceremonies for cross-functional teams.",
+    "url": "https://www.scrum.org/resources/what-is-scrum",
+    "learning_format": "Certifications"
+  },
+  {
+    "id": 6,
+    "title": "Excel for Business Intelligence & Financial Analysis",
+    "category": "Finance & Analytics",
+    "industry": "Finance and Accounting",
+    "level": "Intermediate",
+    "skills": ["Microsoft Excel", "Financial Analysis", "Budgeting", "Data-Driven Decision-Making"],
+    "duration": "3 weeks",
+    "description": "Master advanced formulas, pivot tables, and financial modeling for business operations.",
+    "url": "https://support.microsoft.com/en-us/excel",
+    "learning_format": "Courses"
+  },
+  {
+    "id": 7,
+    "title": "Digital Marketing & SEO Strategy Masterclass",
+    "category": "Marketing",
+    "industry": "Marketing and Digital Marketing",
+    "level": "Beginner",
+    "skills": ["Digital Marketing", "SEO", "Content Strategy", "Social Media Marketing", "Analytics"],
+    "duration": "4 weeks",
+    "description": "Understand organic search optimization, content funnels, and digital campaign measurement.",
+    "url": "https://developers.google.com/search/docs",
+    "learning_format": "Courses"
+  },
+  {
+    "id": 8,
+    "title": "UX Research & Figma Prototyping Essentials",
+    "category": "Design",
+    "industry": "Design, UX/UI and Creative Industries",
+    "level": "Beginner",
+    "skills": ["UX Research", "UI Design", "Figma", "Prototyping", "Graphic Design"],
+    "duration": "3 weeks",
+    "description": "Learn user-centered research methods, wireframing, and interactive prototyping in Figma.",
+    "url": "https://help.figma.com/",
+    "learning_format": "Projects"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Fundamentals & Incident Response",
+    "category": "Security",
+    "industry": "Cybersecurity and IT Support",
+    "level": "Beginner",
+    "skills": ["Network Fundamentals", "Security Awareness", "Incident Response Fundamentals", "Troubleshooting"],
+    "duration": "3 weeks",
+    "description": "Explore core security concepts, threat mitigation, and foundational network defense principles.",
+    "url": "https://www.cisa.gov/resources-tools",
+    "learning_format": "Certifications"
+  },
+  {
+    "id": 10,
+    "title": "Professional Communication & Interview Preparation",
+    "category": "Professional Skills",
+    "industry": "General Professional Development",
+    "level": "Beginner",
+    "skills": ["Communication", "Interview Preparation", "Professional Writing", "Presentation Skills", "Teamwork"],
+    "duration": "1 week",
+    "description": "Enhance your technical writing, stakeholder communication, and structured interview techniques.",
+    "url": "https://github.com/gitpod-io/interview-prep",
+    "learning_format": "Tutorials"
   }
 ]
