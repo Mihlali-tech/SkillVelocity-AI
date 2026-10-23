@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Applied Scikit-Learn & Machine Learning Pipelines",
+    "category": "Machine Learning",
+    "level": "Intermediate",
+    "skills": ["Python", "Scikit-Learn", "Data Preprocessing", "Pipelines"],
+    "duration": "4 weeks",
+    "description": "Build leakage-free machine learning pipelines, evaluation metrics, and production-ready models.",
+    "url": "https://scikit-learn.org/stable/tutorial/index.html"
+  },
+  {
+    "id": 2,
+    "title": "Streamlit Interactive Web Apps for Data Science",
+    "category": "Software Engineering",
+    "level": "Beginner",
+    "skills": ["Python", "Streamlit", "UI Design", "Data Visualization"],
+    "duration": "2 weeks",
+    "description": "Turn data scripts into interactive web applications without extensive frontend web development.",
+    "url": "https://docs.streamlit.io/"
+  },
+  {
+    "id": 3,
+    "title": "Git & GitHub Workflow for Professional Developers",
+    "category": "Developer Tools",
+    "level": "Beginner",
+    "skills": ["Git", "GitHub", "Version Control", "Collaboration"],
+    "duration": "1 week",
+    "description": "Master branching, merging, pull requests, and repository management for technical portfolios.",
+    "url": "https://git-scm.com/doc"
+  },
+  {
+    "id": 4,
+    "title": "Advanced Pandas & Exploratory Data Analysis",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "skills": ["Python", "Pandas", "EDA", "Data Cleaning"],
+    "duration": "3 weeks",
+    "description": "Handle missing data, complex aggregations, and high-performance dataframe manipulations.",
+    "url": "https://pandas.pydata.org/docs/"
+  }
+]
